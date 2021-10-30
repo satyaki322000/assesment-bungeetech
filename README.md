@@ -1,6 +1,9 @@
 # assesment-bungeetech
 
-Please install pandas before running the dataorg script. run the 'dataorg.py' file using << python dataorg.py >> command on a terminal.
+Please install pandas before running the dataorg script.
+to install pandas go to command promt and write " pip install pandas "
+
+Run the 'dataorg.py' file using << python dataorg.py >> command on a terminal.
 
 question 4:-
 
